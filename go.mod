@@ -1,4 +1,4 @@
-module github.com/bugship/scaling-waddle
+module github.com/bugship/shelf-runner
 
 go 1.23.2
 
